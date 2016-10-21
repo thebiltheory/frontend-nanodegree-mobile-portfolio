@@ -21,6 +21,10 @@ form {
   display: inline-block;
 }
 
+img {
+  width: 100%;
+}
+
 .centered {
   text-align: center;
 }
@@ -53,7 +57,7 @@ form {
 .mover {
   width: 73.333px;
   height: 73.333px;
-  background-image: url("../images/pizza.png");
+  background-image: url("/views/images/pizza.png");
   background-size: 73.333px;
   background-position: 0;
 }
