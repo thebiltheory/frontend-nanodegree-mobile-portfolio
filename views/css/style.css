@@ -49,3 +49,11 @@ form {
  .container {
   background-color: rgba(240, 60, 60, 0.8);
 }
+
+.mover {
+  width: 73.333px;
+  height: 73.333px;
+  background-image: url("../images/pizza.png");
+  background-size: 73.333px;
+  background-position: 0;
+}
